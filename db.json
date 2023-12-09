@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aldo ls",
+      "username": "aldo",
+      "email": "aldobesma@gmail.com",
+      "phone": "0808034",
+      "website": "ww.google.com"
+    },
+    {
+      "id": 2,
+      "name": "Aldo ls",
+      "username": "aldo",
+      "email": "aldobesma@gmail.com",
+      "phone": "0808034",
+      "website": "ww.google.com"
+    },
+    {
+      "id": 3,
+      "name": "Aldo ls",
+      "username": "aldo",
+      "email": "aldobesma@gmail.com",
+      "phone": "0808034",
+      "website": "ww.google.com"
+    },
+    {
+      "name": "Aldo Lata Soba",
+      "email": "aldobesma@gmail.com",
+      "phone": "085768620882",
+      "id": 4
+    }
+  ]
+}
