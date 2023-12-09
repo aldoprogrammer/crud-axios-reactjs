@@ -26,7 +26,7 @@ const Read = () => {
         <div className='mb-2'>
             <strong>Phone: {data.phone}</strong>
         </div>
-        <Link to={`update/${id}`} className='btn btn-success'>Edit</Link>
+        <Link to={`/update/${id}`} className='btn btn-success me-2'>Update</Link>
         <Link to='/' className='btn btn-info'>Back</Link>
       </div>
     </div>
